@@ -22,5 +22,5 @@ Predicting churn rates is a challenging and common problem that data scientists 
 - matplotlib
 
 ## Interest
-This project was very interesting and very helpful for those of us looking into moving to a Big Data environment of data science. Spark has similar APIs to those found in pandas and sklern, and has compatibility to program with small sets and turn them into pandas for verificationa and visualization, then implement with small changes on the code to run algorithms to scale.
+This project was very interesting and very helpful for those of us looking into moving to a Big Data environment of data science. Spark has similar APIs to those found in pandas and scikit, and has compatibility to program with small sets and turn them into pandas for verificationa and visualization, then implement with small changes on the code to run algorithms to scale.
 As part of my interest and following the projects from Databricks, I also came accross the koalas project which uses the pandas APIs but uses the spark engine on the background. Really look forward to what that project will enable data scientist to do with much less transalation between spark and pandas APIs.
